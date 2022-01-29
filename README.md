@@ -9,7 +9,7 @@ Ex: http://localhost:3000/Portifolio -> que vai ser redirionado diretamente para
 ##  Interface do Redirecionador 📑
 
 <img alt = "GameBoard" src = "./assets/img/Links.png">
-<img alt = "GameOver" src = "./assets/img/AddLinks.png">
+<img alt = "GameOver" src = "./assets/img/AddLink.png">
 <img alt = "GameOver" src = "./assets/img/EditLinks.png">
 
 
