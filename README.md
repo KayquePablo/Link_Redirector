@@ -3,7 +3,7 @@
 ##  Descrição 📋
 
 Esse projeto e um redirecionador de links aonde o usuário pode estar criando uma interface aonde pode adicionar suas principais redes sociais e profissionais, criando assim uma pagina com todos os seus perfis e contatos e de fácil acesso para seus clientes e podendo ser editado e apagados. 
-E também tem um contador de views que aquele determinado link recebeu.
+E também tem um contador de views(clicks no link) que aquele determinado link recebeu.
 
 ##  Interface do Redirecionador 📑
 
