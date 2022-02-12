@@ -2,9 +2,8 @@
 
 ##  Descrição 📋
 
-Esse projeto e um redirecionador de links aonde o usuário pode estar criando uma interface aonde pode adicionar suas principais redes sociais e profissionais criando assim uma pagina com todos os seus perfis.
-Para ter acesso aos links basta digitar o title do link que vai ser redirecionado para aquele link. 
-Ex: http://localhost:3000/Portifolio -> que vai ser redirionado diretamente para o link daquele titulo.
+Esse projeto e um redirecionador de links aonde o usuário pode estar criando uma interface aonde pode adicionar suas principais redes sociais e profissionais, criando assim uma pagina com todos os seus perfis e contatos e de fácil acesso para seus clientes e podendo ser editado e apagados. 
+E também tem um contador de views que aquele determinado link recebeu.
 
 ##  Interface do Redirecionador 📑
 
